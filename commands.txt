@@ -1,0 +1,14 @@
+git init   -- initializes the current directory as git directory in cmd
+
+
+git global config - https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
+git status
+
+
+git add "readme.md"
+git status
+git branch
