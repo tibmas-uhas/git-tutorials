@@ -11,4 +11,13 @@ git status
 
 git add "readme.md"
 git status
-git branch
+git branch   (master)
+git branch -m main    
+git branch    (main)
+
+
+git remote add origin https://github.com/tibmas-uhas/git-tutorials.git
+
+git status
+git remote -v
+git push origin main
